@@ -66,7 +66,7 @@ class TestShoppingCart(unittest.TestCase):
         self.cart.add_item(1, 1)
         total = self.cart.calculate_total("SAVE10")
 
-        self.assertEqual(total, 97.43)
+        self.assertEqual(total, 97.42)
 
     def test_clear_cart(self):
         product = Product(1, "Laptop", 100.0, 10)

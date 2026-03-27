@@ -1,0 +1,12 @@
+************* Module shopping_cart
+refactored/shopping_cart.py:46:0: C0304: Final newline missing (missing-final-newline)
+refactored/shopping_cart.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+refactored/shopping_cart.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+refactored/shopping_cart.py:15:4: C0116: Missing function or method docstring (missing-function-docstring)
+refactored/shopping_cart.py:32:4: C0116: Missing function or method docstring (missing-function-docstring)
+refactored/shopping_cart.py:35:4: C0116: Missing function or method docstring (missing-function-docstring)
+refactored/shopping_cart.py:45:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.74/10 (previous run: 0.00/10, +7.74)
+

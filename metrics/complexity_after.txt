@@ -1,0 +1,10 @@
+refactored/shopping_cart.py
+    M 15:4 ShoppingCart.add_item - A
+    C 5:0 ShoppingCart - A
+    M 32:4 ShoppingCart.get_subtotal - A
+    M 35:4 ShoppingCart.calculate_total - A
+    M 10:4 ShoppingCart.__init__ - A
+    M 45:4 ShoppingCart.clear - A
+
+6 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.1666666666666665)

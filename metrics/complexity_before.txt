@@ -1,0 +1,9 @@
+original/shopping_cart.py
+    M 59:4 ShoppingCart.calculate_total - B
+    C 1:0 ShoppingCart - A
+    M 7:4 ShoppingCart.add_item - A
+    M 81:4 ShoppingCart.checkout - A
+    M 2:4 ShoppingCart.__init__ - A
+
+5 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.4)

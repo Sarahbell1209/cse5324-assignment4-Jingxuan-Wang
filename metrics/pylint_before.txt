@@ -1,0 +1,20 @@
+************* Module shopping_cart
+original/shopping_cart.py:118:0: C0304: Final newline missing (missing-final-newline)
+original/shopping_cart.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+original/shopping_cart.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+original/shopping_cart.py:4:18: E0602: Undefined variable 'Database' (undefined-variable)
+original/shopping_cart.py:5:29: E0602: Undefined variable 'EmailService' (undefined-variable)
+original/shopping_cart.py:7:4: C0116: Missing function or method docstring (missing-function-docstring)
+original/shopping_cart.py:15:12: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+original/shopping_cart.py:59:4: C0116: Missing function or method docstring (missing-function-docstring)
+original/shopping_cart.py:59:30: W0613: Unused argument 'user_id' (unused-argument)
+original/shopping_cart.py:81:4: C0116: Missing function or method docstring (missing-function-docstring)
+original/shopping_cart.py:87:21: E1101: Instance of 'ShoppingCart' has no 'process_visa' member (no-member)
+original/shopping_cart.py:90:21: E1101: Instance of 'ShoppingCart' has no 'process_mastercard' member (no-member)
+original/shopping_cart.py:93:21: E1101: Instance of 'ShoppingCart' has no 'process_amex' member (no-member)
+original/shopping_cart.py:95:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+original/shopping_cart.py:95:11: E0606: Possibly using variable 'result' before assignment (possibly-used-before-assignment)
+
+------------------------------------------------------------------
+Your code has been rated at 2.64/10 (previous run: 7.74/10, -5.10)
+
